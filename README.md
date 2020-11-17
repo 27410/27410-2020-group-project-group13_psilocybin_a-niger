@@ -8,9 +8,9 @@ Describe the overall aim of your project and what you have achieved.
 ## Project overview
 Describe how your project is organized ...
 
-- The GSM for A. niger (iJB1325) is stored in 2018_ATCC1015_GSM.xml.
+- The GSM for A. niger (iJB1325) along with all coding analysis is stored in the "Analysis" folder. It has been organized by numbers to ease navigation.
 
-- Some live code lives in the Report.ipynb and some "testing" code lives in the notes. The Report.ipynb is what needs to be focused on for now.
+- Some testing code lives in the "Notes" folder - will be moved around soon!
 
-- Theres no text in Results.ipynb at the moment, as it is being written in a google docs.
+- Theres currently no text in Results.ipynb, it will be updated shortly.
 
