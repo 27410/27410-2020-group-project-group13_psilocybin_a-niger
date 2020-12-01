@@ -13,7 +13,7 @@ A summary of what we achieved in this project:
 
 
 ## Project overview
-Our project is organized with two folders in the main folder. All of our work and analysis of the GSM, ATCC1015 iJB1325, including the model, is found in the <b>Analysis</b> folder.
-The report lives in the Report.ipynb notebook, and contains links to the notebooks in the <b>Analysis</b> folder.
-Pictures used in the report are stored in the <b>Pics</b> folder.
-Appendix is found in the <b>Analysis</b> folder. 
+- Our project is organized with two folders in the main folder. All of our work and analysis of the GSM, ATCC1015 iJB1325, including the model, is found in the <b>Analysis</b> folder.
+- The report lives in the Report.ipynb notebook, and contains links to the notebooks in the <b>Analysis</b> folder.
+- Pictures used in the report are stored in the <b>Pics</b> folder.
+- Appendix is found in the <b>Analysis</b> folder. 
