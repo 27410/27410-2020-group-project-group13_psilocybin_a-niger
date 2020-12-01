@@ -6,10 +6,8 @@
 Describe the overall aim of your project and what you have achieved.
 
 ## Project overview
-Describe how your project is organized ...
+Our project is organized with two folders in the main folder. All of our work and analysis of the GSM, ATCC1015 iJB1325, including the model, is found in the <b>Analysis</b> folder.
 
-- The GSM for A. niger (iJB1325) along with all coding analysis is stored in the "Analysis" folder. It will be organized by numbers (soon) to ease navigation.
+The report lives in the Report.ipynb notebook.
 
-- Some testing code lives in the "Notes" folder - will be moved around soon!
-
-- Some text now lives in Results.ipynb. However, this is the not complete or near completion, yet.
+Pictures used in the report are stored in the <b>Pics</b> folder.
